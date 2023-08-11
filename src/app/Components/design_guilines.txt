@@ -1,0 +1,105 @@
+1. Dark Blue:
+   - RGB: 33, 43, 68
+   - Tailwind CSS: bg-blue-900
+
+2. Navy Blue:
+   - RGB: 24, 38, 72
+   - Tailwind CSS: bg-blue-800
+
+3. Medium Blue:
+   - RGB: 52, 91, 164
+   - Tailwind CSS: bg-blue-600
+
+4. Sky Blue:
+   - RGB: 102, 160, 221
+   - Tailwind CSS: bg-blue-300
+
+5. Light Blue:
+   - RGB: 173, 216, 230
+   - Tailwind CSS: bg-blue-200
+
+6. Pale Blue:
+   - RGB: 223, 240, 252
+   - Tailwind CSS: bg-blue-100
+-----------------------------------
+
+**Header, Body, and Footer:**
+
+Header:
+- Background: Dark Blue
+- Text: Light or Pale Blue
+- Logo/Icons: White or Light Blue
+
+Body:
+- Background: Light Blue or Pale Blue
+- Text: Dark Blue or Navy Blue
+
+Footer:
+- Background: Dark Blue or Navy Blue
+- Text: Light Blue or Pale Blue
+
+**Boardlist Component:**
+
+- Background: Navy Blue
+- Text: White or Light Blue
+- Board Names: Light Blue or Sky Blue
+- Hover Effect: Medium Blue
+
+**Thread Component:**
+
+- Background: Pale Blue
+- Text: Dark Blue or Navy Blue
+- Thread Title: Dark Blue or Navy Blue
+- Thread Content: Dark Blue or Navy Blue
+- Border: Light Blue or Sky Blue
+
+**Post Component:**
+
+- Background: Light Blue
+- Text: Dark Blue or Navy Blue
+- Username/Author: Dark Blue or Navy Blue
+- Post Content: Dark Blue or Navy Blue
+- Border: Medium Blue
+
+**Post Form and Reply Form:**
+
+- Background: Pale Blue
+- Text: Dark Blue or Navy Blue
+- Input Fields: Light Blue or Sky Blue
+- Buttons: Dark Blue or Navy Blue
+- Borders: Light Blue or Sky Blue
+------------------------------------
+**Thread List:**
+
+- Thread List Background: Pale Blue
+- Thread Title: Dark Blue
+- Thread Excerpt: Medium Blue
+- Hover Effect: Light Blue or Sky Blue
+
+**Modal:**
+
+- Modal Background: Dark Blue
+- Modal Text: Light Blue or Pale Blue
+- Modal Close Button: Light Blue or Pale Blue
+- Modal Overlay (Backdrop): Semi-transparent Dark Blue
+
+**Loading Spinner:**
+
+- Spinner Color: Medium Blue or Sky Blue
+
+**Post:**
+
+- Post Background: Light Blue
+- Post Text: Dark Blue or Navy Blue
+- Username/Author: Dark Blue or Navy Blue
+- Post Content: Dark Blue or Navy Blue
+- Border: Medium Blue
+
+**Thread:**
+
+- Thread Background: Pale Blue
+- Thread Title: Dark Blue or Navy Blue
+- Thread Content: Dark Blue or Navy Blue
+- Thread Border: Light Blue or Sky Blue
+
+
